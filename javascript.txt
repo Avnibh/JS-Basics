@@ -1,0 +1,55 @@
+Javascript 
+
+1. JavaScript is the programming language of HTML and the Web.
+
+2. JavaScript and Java are completely different languages, both in concept and design.
+
+	JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
+	ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+
+3. JavaScript Variables
+In a programming language, variables are used to store data values.
+
+JavaScript uses the var keyword to declare variables.
+
+An equal sign is used to assign values to variables.
+
+In this example, x is defined as a variable. Then, x is assigned (given) the value 6:
+
+var x;
+
+x = 6;
+
+
+4. JavaScript Identifiers
+All JavaScript variables must be identified with unique names.
+
+These unique names are called identifiers.
+
+Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+
+The general rules for constructing names for variables (unique identifiers) are:
+
+Names can contain letters, digits, underscores, and dollar signs.
+Names must begin with a letter
+Names can also begin with $ and _ (but we will not use it in this tutorial)
+Names are case sensitive (y and Y are different variables)
+Reserved words (like JavaScript keywords) cannot be used as names
+JavaScript identifiers are case-sensitive.
+
+5. JavaScript Data Types
+JavaScript variables can hold numbers like 100 and text values like "John Doe".
+
+In programming, text values are called text strings.
+
+JavaScript can handle many types of data, but for now, just think of numbers and strings.
+
+Strings are written inside double or single quotes. Numbers are written without quotes.
+
+If you put a number in quotes, it will be treated as a text string.
+
+Example
+var pi = 3.14;
+var person = "John Doe";
+var answer = 'Yes I am!';
